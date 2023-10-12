@@ -6,10 +6,9 @@ Reddit Rescuer is a media downloader for Reddit that allows users to easily down
 
 ## Features
 
-- Download saved images and videos from your Reddit account.
-- Utilizes a headless, stealthy web scraper for retrieving posts.
-- Supports various media hosting platforms used by Reddit.
-- Batch download support: Download multiple posts in one go, saving you time and effort.
+- **Effortless Downloads**: Download all the images and videos from your saved Reddit posts in just a few clicks.
+- **Easy-to-Use Interface**: A user-friendly command-line interface for simple and intuitive operation.
+- **Batch Download Support**: Download multiple posts in one go, saving you time and effort.
 
 ## Table of Contents
 
@@ -65,7 +64,7 @@ npm start
 
 2.  The application will attempt to confirm your credentials from the `.env` file. Follow the on-screen terminal instructions to grant the necessary permissions.
 
-> If there are any issues finding your credentials, the terminal may prompt you to manually enter them to log into your Reddit account with Reddit Rescuer.
+    > If there are any issues finding your credentials, the terminal may prompt you to manually enter them to log into your Reddit account with Reddit Rescuer.
 
 3.  After authorization, the tool will fetch your saved image and video posts and begin downloading them to your local `./output` folder.
 
@@ -88,6 +87,12 @@ git checkout -b feature/your-feature-name
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/anthonybuncio/reddit-rescuer/blob/main/LICENSE.txt) file for details.
+
+For more information and advanced usage, please refer to the full documentation or contact the developer for support.
+
+If you have any questions or encounter issues, feel free to open an issue in the repository.
+
+Happy downloading! 📥 📸 📹
 
 ---
 
